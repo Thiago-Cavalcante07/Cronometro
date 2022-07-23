@@ -1,0 +1,28 @@
+.body{
+    background-color: black;
+}
+
+.div{
+    position: absolute;
+    margin-top: 15%;
+    left: 50%;
+    text-align: center;
+    transform: translate(-50%, -50%);
+    height: 10em;
+    padding: 20px;  
+    color: white;
+    border: 1px solid white;
+}
+
+.botao{
+    margin-top: 30px;
+    width: 6em;
+    border-radius: none !important;
+}
+
+.botao:hover{
+    background-color: white !important;
+    color: black !important;
+    border-color: white !important;
+    border-radius: none !important;
+}
